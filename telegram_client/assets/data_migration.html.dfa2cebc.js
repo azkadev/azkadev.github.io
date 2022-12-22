@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7b4dc006","path":"/recipes/data_migration.html","title":"Data migration","lang":"Indonesia","frontmatter":{"title":"Data migration"},"excerpt":"","headers":[],"git":{"updatedTime":1671717712000,"contributors":[{"name":"￴","email":"￴","commits":1}]},"filePathRelative":"recipes/data_migration.md"}');export{t as data};
